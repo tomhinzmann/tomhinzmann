@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tomhinzmann
-- 👀 I’m interested in full-stack web- and software development, specifically finance applications, and finding simple solutions for complex challenges.
+- 👀 I’m interested in full-stack web- and software development, specifically finance applications, and finding simple solutions to complex challenges.
 - 🌱 I’m currently learning to use ANSI-C for freakishly fast backend services.
 - 💞️ I’m looking to collaborate on building my full-stack software development agency.
 - 📫 How to reach me: tom.hinzmann@it-for-you.com
